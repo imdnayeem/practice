@@ -1,0 +1,32 @@
+{
+  "songsArray": [
+    {
+      "movie": "Jalebi",
+      "title": "Pal",
+      "songlength": "4:07",
+      "singer": "Arijit",
+      "id": "123"
+    },
+    {
+      "movie": "Kabhi Alvida Na Kehna",
+      "title": "Tumhi Dekho Na",
+      "songlength": "5:30",
+      "singer": "Sonu Nigam",
+      "id": "e35e97bf-e4af-46fb-ab3a-17e72da5d088"
+    },
+    {
+      "movie": "Kabhi Alvida Na Kehna",
+      "title": "Mitwa",
+      "songlength": "3:20",
+      "singer": "Shafqat Ali",
+      "id": "ac926035-753b-4aa0-bc65-1f364de20e5f"
+    },
+    {
+      "movie": "Kabhi Kabhi",
+      "title": "Mai Do Pal",
+      "songlength": "3:45",
+      "singer": "Mukesh",
+      "id": "234"
+    }
+  ]
+}

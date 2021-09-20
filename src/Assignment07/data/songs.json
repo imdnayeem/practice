@@ -1,0 +1,32 @@
+{
+  "songsArray": [
+    {
+      "id": 1,
+      "movie": "Jalebi",
+      "title": "Pal",
+      "songlength": "4:07",
+      "singer": "Arijit"
+    },
+    {
+      "id": 2,
+      "movie": "Kabhi Kabhi",
+      "title": "Mai Do Pal",
+      "songlength": "3:45",
+      "singer": "Mukesh"
+    },
+    {
+      "id": 3,
+      "movie": "Aradhana",
+      "title": "Aaja Tujhko",
+      "songlength": "4:45",
+      "singer": "Rafi"
+    },
+    {
+      "movie": "Kabhi Alvida Na Kehna",
+      "title": "Mitwa",
+      "songlength": "2:30",
+      "singer": "Shafqat Ali",
+      "id": 4
+    }
+  ]
+}

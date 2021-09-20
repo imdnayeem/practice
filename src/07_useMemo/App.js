@@ -1,14 +1,12 @@
-import React, { useCallback } from "react";
+import React from "react";
 import "./App.css";
 
-import ParentComponent from "./components/ParentComponent";
-
-export const CountContext = React.createContext();
+import Counter from "./components/Counter";
 
 function App() {
   return (
     <div className="App">
-      <ParentComponent />
+      <Counter />
     </div>
   );
 }

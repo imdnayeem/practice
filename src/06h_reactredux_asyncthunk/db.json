@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Ram",
+      "location": "Chennai",
+      "id": "3cc4ba07-64b3-437c-8f44-00fd55f2359d"
+    },
+    {
+      "name": "Raj",
+      "location": "Pune",
+      "id": "bb341273-2cd3-4dfd-83f4-507b164a43bd"
+    },
+    {
+      "name": "Vinay",
+      "location": "Kochi",
+      "id": "22faba6f-c818-4ab2-bd24-78fbf21cbf0e"
+    }
+  ]
+}

@@ -16,7 +16,11 @@ import "semantic-ui-css/semantic.min.css";
 // import App from "./01_Redux/App";
 // import App from "./Assignment06/components/App";
 // import App from "./Assignment07/src/App";
-import App from "./10_SimpleCounter/App";
+// import App from "./10_SimpleCounter/App";
+// import App from "./01_Tracked/App";
+// import App from "./01_Tutorials_05/App";
+// import App from "./React_HTTP/App";
+import App from "./React_Hooks/App";
 
 ReactDOM.render(
   <React.StrictMode>

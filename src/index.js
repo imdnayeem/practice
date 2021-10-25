@@ -20,11 +20,22 @@ import "semantic-ui-css/semantic.min.css";
 // import App from "./01_Tracked/App";
 // import App from "./01_Tutorials_05/App";
 // import App from "./React_HTTP/App";
-import App from "./React_Hooks/App";
+// import App from "./React_Hooks/App";
+// import App from "./Effect_Hooks/App";
+// import App from "./Context_Hooks/App";
+// import App from "./Reducer_Hooks/App";
+// import App from "./Context_Reducer_Hooks/App";
+// import App from "./Data_Fetch_Reducer_Hooks/App";
+// import App from "./Callback_Hooks/App";
+// import App from "./Memo_Hooks/App";
+// import App from "./Ref_Hooks/App";
+// import App from "./Custom_Hooks/App";
+// import App from "./Render/App";
+import App from "./React_Table/App";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  // <React.StrictMode>
+  <App />,
+  // </React.StrictMode>
   document.getElementById("root")
 );

@@ -31,7 +31,8 @@ import "semantic-ui-css/semantic.min.css";
 // import App from "./Ref_Hooks/App";
 // import App from "./Custom_Hooks/App";
 // import App from "./Render/App";
-import App from "./React_Table/App";
+// import App from "./React_Table/App";
+import App from "./Pokedex/App";
 
 ReactDOM.render(
   // <React.StrictMode>
